@@ -1,0 +1,8 @@
+dist/
+build/
+relatorios/
+config.json
+autorizados.json
+watchdog.log
+*.spec
+__pycache__/
